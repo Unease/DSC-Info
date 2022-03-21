@@ -4,3 +4,4 @@
 * I'm able to list a lot more details here instead of just being generic
 * I can list some fun facts here
 # Please read the other files for more information!
+## If you are new to Github, just click the any of the .md files to read them!

@@ -1,4 +1,4 @@
-# These are my preferred priorities if I am ever pinged. these do not apply when @everyone or @here is used!
+# These are my preferences if I am ever pinged. These do not apply when @everyone or @here is used!
 ## You may **ping** me if!
 * You need specifically my help
 * You reply to add and or comment to a conversation/thread
