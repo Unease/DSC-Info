@@ -5,5 +5,7 @@ https://youtube.com/c/UneasePurse37
 https://twitter.com/UneasePurse37
 ## Twitch
 https://twitch.tv/uneasepurse37
-## Minecraft IGN
+## Reddit
+https://reddit.com/u/UneasePurse37
+## Minecraft User
 https://namemc.com/ItsUnease
