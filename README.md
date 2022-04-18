@@ -9,10 +9,11 @@
 * I enjoy RTA speedruns most commonly of the same games I watch TASes of except for Minecraft.
 * I live in California (Pacific Daylight Time = UTC-7:00, Pacific Standard Time = UTC-8:00) so keep my time in mind whenever asking for something!
 
-# These are my preferences if I am ever pinged. These do not apply when @everyone or @here is used!
+# Pinging Preferences
+## These do not apply when @everyone or @here is used!
 ## You may **ping** me if!
 * You need specifically my help
-* You reply to add and or comment to a conversation/thread
+### Please attempt to turn off reply pings when you are replying to me!
 ## You may **DM** me if!
 * You need my help and can't ask publically
 * You need to clear up details in private
